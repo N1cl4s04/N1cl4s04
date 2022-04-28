@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N1cl4s04
 - 👀 I’m interested in all
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, python
 
 <!---
 N1cl4s04/N1cl4s04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
